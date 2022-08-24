@@ -16,7 +16,7 @@ cd ..
 
 ## 2. Klone dette repositoriet: 
 ```
-git clone https://github.com/uit-sok-1003-h21/notebooks/
+git clone https://github.com/uit-sok-1003-h22/notebooks/
 ```    
  
 ## 3. Starte Jupyter i bestemt mappe ('D:/myfiles' i dette tilfellet): 
@@ -51,7 +51,7 @@ git stash
 ```  
  
 ## 7. Lage git-repositorie:
-[Se her for en forklaring på hvordan du skal levere arbeidskrav på github](https://uit-sok-1003-h21.github.io/github.html)
+[Se her for en forklaring på hvordan du skal levere arbeidskrav på github](https://uit-sok-1003-h22.github.io/github.html)
 
 1. Lag en githubkonto (du trenger ikke bruke din uit-mail, det er valgfritt)
 2. Logg på `jupyter.uit.no`, og åpne ny Terminal (+), og naviger dit du vil ha repositoriet på jupyter med `cd <mappenavn>`.
